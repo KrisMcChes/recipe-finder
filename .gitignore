@@ -13,7 +13,7 @@
 /tests
 
 #production
-/build
+# /build - we need this for Github Pages
 
 # misc
 .DS_Store
