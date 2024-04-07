@@ -12,9 +12,6 @@
 /testem.js
 /tests
 
-#production
-# /build - we need this for Github Pages
-
 # misc
 .DS_Store
 .env
